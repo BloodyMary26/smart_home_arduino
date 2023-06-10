@@ -11,9 +11,9 @@ void setup ()
 {
 lcd.init (); // initialize the lcd
 lcd.backlight ();
-lcd.print ("Russkiy Korabl"); // LED print hello, world!
+lcd.print ("Vova is always"); // LED print hello, world!
 lcd.setCursor (2,1);
-lcd.print ("Poshel nahuy!"); // LED print keyestudio!
+lcd.print ("right"); // LED print keyestudio!
 }
 void loop ()
 {
